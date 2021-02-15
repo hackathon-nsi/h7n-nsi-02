@@ -6,9 +6,9 @@
 [[lire la suite]](https://fr.wikipedia.org/wiki/%C3%89moji)
 
 
-**Mission**
+**MISSION**
 
--- Niveau 1 --
+-- **Niveau 1** --
 
 * Lire l'article Wikipedia sur les Émoji
 * Revoir les encodages ASCII et Unicode.
@@ -16,14 +16,19 @@
 * Etudier [la première partie de La Princesse de Clève](https://github.com/hackathon-nsi/h7n-nsi-02/tree/main/textes/La%20%F0%9F%91%B8%20de%20Cl%C3%A8ves) et faire une première liste de termes qui pourraient être remplacés par un Émoji.
 * Ecrire un programme en Python qui remplace les termes de la liste précédente par les Emoji correspondants.
 
--- Niveau 2 --
+<br />
+
+-- **Niveau 2** --
 
 Faire la même chose en Javacript
 
--- Niveau 3 --
+<br />
+
+-- **Niveau 3** --
 
 Construire une page web avec un formulaire permettant de changer des termes en Emoji pour tout texte présent sur le site [Wikisource](https://fr.wikisource.org/wiki/Wikisource:Accueil). 
 
+</br>
 
 **Aide**
 
