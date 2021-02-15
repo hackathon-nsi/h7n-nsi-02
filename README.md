@@ -32,7 +32,7 @@ Construire une page web avec un formulaire permettant de changer des termes en �
 <br />
 
 **Consignes**
-* Rédiger la documentation de votre projet dans le fichier README.md (présenter la technique choisie, décrire la démarche, expliquer le code...)
+* Rédiger la documentation de votre projet dans le fichier README.md (présenter la méthode, décrire la démarche, expliquer le code...)
 * Placer le code Python dans un ou plusieurs fichiers .py
 * Commenter le code
 * Toute contribution doit faire l'objet de discussions entre les membres d'une équipe avant soumission ("commit"). De plus, les contributions des différents membres d'une équipe doivent être équilibrées. Si un membre dépasse un seuil de contribution (60% pour une équipe de deux, 40% pour une équipe de trois), il doit cesser ses contributions et communiquer avec les autres membres de l'équipe afin de partager et expliquer ses idées et son code. 
