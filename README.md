@@ -31,6 +31,18 @@ Construire une page web avec un formulaire permettant de changer des termes en �
 
 <br />
 
+-- **Niveau 4** --
+
+Construire une extension Chrome permettant de changer des termes d'une page web visitée en Émoji.
+
+<br />
+
+**Règles**
+* Interdiction d'utiliser la fonction Python `replace()` ou toute autre fonction équivalente.
+* Si des questions sont posées sur Stackoverflow, le 'tag' "hackathon-nsi" doit être ajouté aux questions.
+
+<br />
+
 **Consignes**
 * Rédiger la documentation de votre projet dans le fichier README.md (présenter la méthode, décrire la démarche, expliquer le code...)
 * Placer le code Python dans un ou plusieurs fichiers .py
