@@ -44,7 +44,7 @@ Construire une page web avec un formulaire permettant de changer des termes en Ã
 Pour lire un fichier texte en Python :
 ```python
 import requests
-reponse = requests.get('https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-02/main/textes/La%20%F0%9F%91%B8%20de%20Cl%C3%A8ves/La%20Princesse%20de%20Cl%C3%A8ves%2C%20%C3%A9dition%20Lepetit%2C%201820%20-%20Premi%C3%A8re%20partie.txt')
+reponse = requests.get('https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-02/main/textes/La%20Princesse%20de%20Cl%C3%A8ves/lpdc-partie1.txt')
 texte = reponse.text
 print(texte)
 ```
