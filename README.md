@@ -14,7 +14,7 @@
 * Lire l'article Wikipedia sur les Émojis.
 * Revoir les encodages ASCII et Unicode.
 * Visiter et étudier : https://home.unicode.org / https://unicode.org/emoji/charts/full-emoji-list.html
-* Étudier [la première partie de La Princesse de Clèves](https://github.com/hackathon-nsi/h7n-nsi-02/tree/main/textes/La%20%F0%9F%91%B8%20de%20Cl%C3%A8ves) et faire une première liste de termes qui pourraient être remplacés par des Émoji.
+* Étudier [la première partie de La Princesse de Clèves](https://github.com/hackathon-nsi/h7n-nsi-02/blob/main/textes/La%20Princesse%20de%20Cl%C3%A8ves/lpdc-partie1.txt) et faire une première liste de termes qui pourraient être remplacés par des Émoji.
 * Écrire un programme en Python qui remplace les termes de la liste précédente par les Émojis correspondants.
 
 <br />
