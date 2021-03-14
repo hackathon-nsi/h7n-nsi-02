@@ -44,7 +44,8 @@ Construire une extension Chrome permettant de changer des termes d'une page web 
 <br />
 
 **Consignes**
-* Rédiger la documentation de votre projet dans le fichier README.md (présenter la méthode, décrire la démarche, expliquer le code...)
+* Tenir un journal de bord dans le fichier `README.md`
+* Rédiger la documentation de votre projet dans le fichier `README.md` 
 * Placer le code Python dans un ou plusieurs fichiers .py
 * Commenter le code
 * Toute contribution doit faire l'objet de discussions entre les membres d'une équipe avant soumission ("commit"). De plus, les contributions des différents membres d'une équipe doivent être équilibrées. Si un membre dépasse un seuil de contribution (60% pour une équipe de deux, 40% pour une équipe de trois), il doit cesser ses contributions et communiquer avec les autres membres de l'équipe afin de partager et expliquer ses idées et son code. 
